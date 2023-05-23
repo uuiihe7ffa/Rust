@@ -1,5 +1,5 @@
 [package]
-name = "rust"
+name = "model"
 version = "0.1.0"
 edition = "2021"
 
@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 bevy = "0.10.0"
+actix-web ="2.0"
+actix-rt = "1.1.1"
